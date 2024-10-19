@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é Thiago Sanchez
 - Tenho 18 anos e gosto muito de programação
-- Atualmente estou cursando o curso de ADS na São Paulo Tech School 💻
+- Atualmente estou cursando ADS na São Paulo Tech School 💻
 
 <!---
 Th-Sanchez/Th-Sanchez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
