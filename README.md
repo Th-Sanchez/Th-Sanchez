@@ -1,5 +1,5 @@
 - 👋 Olá, meu nome é Thiago Sanchez
-- Tenho 18 anos e gosto muito de programação
+- Tenho 19 anos e gosto muito de programação
 - Atualmente estou cursando ADS na São Paulo Tech School 💻
 
 <!---
